@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=I'm+Muh+Nailar+Raza;I'm+a+Personal+Developer." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&pause=500&duration=2000&color=FF00FF&center=true&vCenter=true&width=800&lines=I'm+Muh+Nailar+Raza;I'm+a+Personal+Developer." alt="Typing Animation" />
 </p>
 
 <p align="left"> 
@@ -45,7 +45,7 @@
   <a href="https://github.com/muhipo-dev">
     <img src="https://img.shields.io/badge/GITHUB_MUHIPO--DEV-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub muhipo-dev" />
   </a>
-  <a href="https://instagram.com/razagopo">
+  <a href="https://instagram.com/raza.gopo">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:nailarraza16@gmail.com">
