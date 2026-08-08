@@ -30,6 +30,13 @@
   </a>
 </p>
 
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nailarraza&show_icons=true&theme=radical&hide_border=true" alt="nailarraza's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailarraza&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 ### Connect With Me
 
 <p align="left">
