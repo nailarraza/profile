@@ -33,13 +33,13 @@
 ### GitHub Stats & Trophies
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nailarraza&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nailarraza&theme=radical&hide_border=true" alt="nailarraza's Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nailarraza&theme=radical&hide_border=true" alt="nailarraza's Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nailarraza&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="" />
+  </a>
 </p>
 
 ### Connect With Me
