@@ -1,4 +1,4 @@
-<h1 align="center">I'm Muhammad Nailar Raza</h1> <!-- -->
+<h1 align="center">I'm Muh Nailar Raza</h1> <!-- -->
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=nailarraza&label=Profile%20views&color=0e75b6&style=flat" alt="nailarraza profile views" /> 
