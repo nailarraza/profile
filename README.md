@@ -9,24 +9,24 @@
 ### Education & Background
 
 * 🎓 **B.Comp. (Sarjana Komputer / S.Kom.)** — Universitas Muhammadiyah Ponorogo | **GPA:** 3.3
-* 🏫 **High School** — SMA Muhammadiyah 1 Ponorogo
 * 🧠 **Thesis:** Developed a Computer Vision system utilizing the **YOLOv8** algorithm for advanced object detection.
+* 🏫 **High School** — SMA Muhammadiyah 1 Ponorogo
 
 ### SKill
 
-* Building Modern Web Applications using Next.js, TypeScript, JavaScript, Vue, and Laravel.
+* Building Modern Web Applications using HTML, CSS, Next.js, Astro, Vue, and Laravel (with Tailwind CSS styling).
 * Implementing Artificial Intelligence and Computer Vision models (YOLOv8).
 * Managing cloud infrastructure, networking configurations, and routing (Mikrotik, ClouDNS, Tunnel.id).
 * Developing community-driven web projects and village domain administration.
 * Deploying and hosting projects seamlessly using Docker, Vercel, AWS, and Google Cloud.
-* Exploring artificial intelligence tools like Google Gemini, AI Studio, and integrating database solutions like PostgreSQL, Supabase, and Firebase.
+* Exploring artificial intelligence tools like Google Gemini, AI Studio, and integrating database solutions like MySQL, PostgreSQL, Supabase, and Firebase.
 * Git for version control allows me to work in an efficient and organized team.
 
 ### Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,next,js,php,py,gcp,vercel,github,supabase,figma,docker,vue,laravel,firebase,visualstudio,postman,aws,postgres" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,next,vue,astro,laravel,tailwind,mysql,postgres,supabase,firebase,gcp,aws,vercel,docker,github,figma,visualstudio,postman" alt="Tech Stack Icons" />
   </a>
 </p>
 
