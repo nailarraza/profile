@@ -30,11 +30,16 @@
   </a>
 </p>
 
-### GitHub Stats
+### GitHub Stats & Trophies
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailarraza&show_icons=true&theme=radical&hide_border=true" alt="nailarraza's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailarraza&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nailarraza&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="nailarraza's Trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nailarraza&theme=radical&hide_border=true" alt="nailarraza's Streak" />
 </p>
 
 ### Connect With Me
