@@ -4,9 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=nailarraza&label=Profile%20views&color=0e75b6&style=flat" alt="nailarraza profile views" /> 
 </p>
 
+### Education & Background
+
+* 🎓 **B.Sc. in Informatics Engineering (Teknik Informatika)** — Universitas Muhammadiyah Ponorogo | **GPA:** 3.3
+* 🧠 **Thesis:** Developed a Computer Vision system utilizing the **YOLOv8** algorithm for advanced object detection.
+
 ### SKill
 
 * Building Modern Web Applications using Next.js, TypeScript, JavaScript, and PHP.
+* Implementing Artificial Intelligence and Computer Vision models (YOLOv8).
 * Managing cloud infrastructure, networking configurations, and routing (Mikrotik, ClouDNS, Tunnel.id).
 * Developing community-driven web projects and village domain administration.
 * Deploying and hosting projects seamlessly on Vercel and Google Cloud.
@@ -20,6 +26,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
@@ -39,7 +46,7 @@
   <a href="https://instagram.com/razagopo">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:nailarraza16@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
