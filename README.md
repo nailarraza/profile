@@ -24,7 +24,7 @@
 
 ### Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,cs,react,next,vue,astro,laravel,tailwind,vite,mysql,postgres,supabase,firebase,gcp,aws,vercel,docker,linux,ubuntu,kali,windows,raspberrypi,github,git,figma,ps,ai,pr,ae,visualstudio,postman,discord&perline=12" alt="Tech Stack Icons" />
   </a>
@@ -32,11 +32,11 @@
 
 ### GitHub Stats & Trophies
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nailarraza&theme=radical&hide_border=true" alt="nailarraza's Streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nailarraza&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="" />
   </a>
