@@ -6,15 +6,20 @@
 
 ### SKill
 
-* Building cloud infrastructure and managing networking configurations.
-* Managing deployments on Vercel, Google Cloud, and configuring DNS/Routing.
-* Exploring artificial intelligence tools like AI Studio and Supabase.
-* Deploying smart home networks and automation hardware.
+* Building Modern Web Applications using Next.js, TypeScript, JavaScript, and PHP.
+* Managing cloud infrastructure, networking configurations, and routing (Mikrotik, ClouDNS, Tunnel.id).
+* Developing community-driven web projects and village domain administration.
+* Deploying and hosting projects seamlessly on Vercel and Google Cloud.
+* Exploring artificial intelligence tools like AI Studio and integrating database solutions like Supabase.
 * Git for version control allows me to work in an efficient and organized team.
 
 ### Languages and Tools:
 
 <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/MikroTik-222222?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
